@@ -5,6 +5,26 @@
 
 ---
 
+<div align="center">
+   <img src="https://api.statusbadges.me/badge/status/112908194715549696?simple=true&style=for-the-badge" alt="status">  
+   <img src="https://api.statusbadges.me/badge/playing/885063317079592961?label=Playing">
+   <img src="https://api.statusbadges.me/badge/vscode/112908194715549696?style=for-the-badge" alt="vscode">
+   <a href="https://api.statusbadges.me/openspotify/112908194715549696" target="_blank"><img src="https://api.statusbadges.me/badge/spotify/112908194715549696?style=for-the-badge" alt="spotify"></a>
+   <p align="center">I use Arch (btw)</p>
+</div>
+
+---
+
+<div align="center">
+ <img width=45% src="https://github-readme-stats-lac-sigma.vercel.app/api?username=CVLTIK&include_all_commits=true&count_private=true&theme=aura&show_icons=true" />
+ <img width=45% src="https://github-readme-streak-stats-stef-00012.vercel.app/?user=CVLTIK&theme=aura" />
+ <br><br>
+ <img width=40% src="https://github-readme-stats-lac-sigma.vercel.app/api/top-langs/?username=CVLTIK&layout=compact&theme=aura" />
+</div>
+
+---
+---
+
 ## 🖥️ Operating Systems
 
 [![](https://skillicons.dev/icons?i=arch,debian,apple,windows)]()
@@ -26,25 +46,6 @@
 ## 🔧 Currently Learning
 
 [![](https://skillicons.dev/icons?i=electron,figma,lua,neovim,vim,rust)]()
-
----
-
-<div align="center">
-   <img src="https://api.statusbadges.me/badge/status/112908194715549696?simple=true&style=for-the-badge" alt="status">  
-   <img src="https://api.statusbadges.me/badge/playing/885063317079592961?label=Playing">
-   <img src="https://api.statusbadges.me/badge/vscode/112908194715549696?style=for-the-badge" alt="vscode">
-   <a href="https://api.statusbadges.me/openspotify/112908194715549696" target="_blank"><img src="https://api.statusbadges.me/badge/spotify/112908194715549696?style=for-the-badge" alt="spotify"></a>
-   <p align="center">I use Arch (btw)</p>
-</div>
-
----
-
-<div align="center">
- <img width=45% src="https://github-readme-stats-lac-sigma.vercel.app/api?username=CVLTIK&include_all_commits=true&count_private=true&theme=aura&show_icons=true" />
- <img width=45% src="https://github-readme-streak-stats-stef-00012.vercel.app/?user=CVLTIK&theme=aura" />
- <br><br>
- <img width=40% src="https://github-readme-stats-lac-sigma.vercel.app/api/top-langs/?username=CVLTIK&layout=compact&theme=aura" />
-</div>
 
 ---
 
