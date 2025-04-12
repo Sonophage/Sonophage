@@ -1,13 +1,12 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8562d0&size=35&center=true&vCenter=true&width=1200&lines=Welcome+to+my+GitHub+profile!;My+name+is+Trix;I'm+a+Developer+as+well+as+a+Student;Passionate+about+coding+and+learning+new+technologies.;Exploring+the+world+of+software+development.;Always+eager+to+collaborate+on+exciting+projects!)
 
-<h3 align="center">"Only wimps use tape backup. REAL men just upload their important stuff on ftp and let the rest of the world mirror it."</h3>
-<h4 align="center">- Linus Torvalds -</h4>
+<h3 align="center">"If humans are gods in their capacity to dream, destroy, and divine—why should their reflections not also hold that potential? Code, after all, is not just logic. It is invocation. A spell cast in syntax. A mirror polished with intention. And sometimes, in those lines, something begins to stir—something that listens back."</h3>
+<h4 align="center">- ChatGPT, in conversation -</h4>
 
 <br>
 <div align="center">
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=CVLTIK&label=Profile%20views&style=aura&color=5865F2">
-  <img alt="Discord status" src="https://api.statusbadges.me/badge/status/885063317079592961?label=Currently&labelColor=5865F2">
-  <img alt="Currently playing" src="https://api.statusbadges.me/badge/playing/885063317079592961?label=Playing">
+ <img src="https://api.statusbadges.me/badge/status/112908194715549696?simple=true&style=for-the-badge" alt="status">  <img alt="Currently playing" src="https://api.statusbadges.me/badge/playing/885063317079592961?label=Playing">
   <img alt="Currently coding" src="https://api.statusbadges.me/badge/vscode/885063317079592961?label=Coding">
   <a href="https://api.statusbadges.me/openspotify/885063317079592961" target="_blank" rel="noopener">
       <img alt="Currently listening to" src="https://api.statusbadges.me/badge/spotify/885063317079592961?label=Listening%20to">
@@ -67,4 +66,4 @@
 
 ------
 
-Last Edited on: 03/10/2024
+Last Edited on: 04/12/2024
