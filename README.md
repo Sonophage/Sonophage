@@ -13,12 +13,13 @@
 
 <!-- Status Section -->
 <div align="center">
+    <p>I use Arch (btw)</p>
   <img src="https://api.statusbadges.me/badge/status/112908194715549696?simple=true&style=for-the-badge" alt="Status" />
   <img src="https://api.statusbadges.me/badge/vscode/112908194715549696?style=for-the-badge" alt="VSCode" />
   <a href="https://api.statusbadges.me/openspotify/112908194715549696" target="_blank">
     <img src="https://api.statusbadges.me/badge/spotify/112908194715549696?style=for-the-badge" alt="Spotify" />
   </a>
-  <p>I use Arch (btw)</p>
+
 </div>
 
 ---
