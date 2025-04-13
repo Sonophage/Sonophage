@@ -22,8 +22,6 @@
 
 </div>
 
----
-
 <!-- GitHub Stats -->
 <div align="center">
   <img width="45%" src="https://github-readme-stats-lac-sigma.vercel.app/api?username=CVLTIK&include_all_commits=true&count_private=true&theme=aura&show_icons=true" alt="GitHub Stats" />
