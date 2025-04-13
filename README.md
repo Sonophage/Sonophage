@@ -7,7 +7,6 @@
 
 <div align="center">
    <img src="https://api.statusbadges.me/badge/status/112908194715549696?simple=true&style=for-the-badge" alt="status">  
-   <img src="https://api.statusbadges.me/badge/playing/885063317079592961?label=Playing">
    <img src="https://api.statusbadges.me/badge/vscode/112908194715549696?style=for-the-badge" alt="vscode">
    <a href="https://api.statusbadges.me/openspotify/112908194715549696" target="_blank"><img src="https://api.statusbadges.me/badge/spotify/112908194715549696?style=for-the-badge" alt="spotify"></a>
    <p align="center">I use Arch (btw)</p>
@@ -23,33 +22,32 @@
 </div>
 
 ---
----
-
-## 🖥️ Operating Systems
+https://readme-components.vercel.app/api?component=experience&company=freshworks&role=software%20Developer%20Intern&duration=12m&location=chennai
+### Operating Systems
 
 [![](https://skillicons.dev/icons?i=arch,debian,apple,windows)]()
 
 ---
 
-## 🧠 Languages
+### Languages
 
 [![](https://skillicons.dev/icons?i=py,cpp,c,php,html,css,js,jquery,less,lua,rust,sql,md,regex)]()
 
 ---
 
-## 🛠️ Tools & Frameworks
+### Tools & Frameworks
 
 [![](https://skillicons.dev/icons?i=electron,figma,neovim,vim,vscode,docker,fastapi,rails,bash,aws,azure,arduino,nginx,bootstrap,codepen,cloudflare,wordpress)]()
 
 ---
 
-## 🔧 Currently Learning
+### Currently Learning
 
 [![](https://skillicons.dev/icons?i=electron,figma,lua,neovim,vim,rust)]()
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 
 [![Website](https://skillicons.dev/icons?i=ros)](https://CVLTIK.is-a.dev)
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.dog/885063317079592961)
