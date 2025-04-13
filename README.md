@@ -22,7 +22,7 @@
 </div>
 
 ---
-[![Experience component] (https://readme-components.vercel.app/api?component=experience&company=freshworks&role=Lead Developer&duration=4y&location=Seattle)
+[![Experience component](https://readme-components.vercel.app/api?component=experience&company=freshworks&role=Lead%20Developer&duration=4y&location=Seattle)
 ### Operating Systems
 
 [![](https://skillicons.dev/icons?i=arch,debian,apple,windows)]()
