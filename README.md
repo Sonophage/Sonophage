@@ -7,7 +7,7 @@
 <h3 align="center" style="max-width: 800px; margin: auto; font-style: italic;">
   "If humans are gods in their capacity to dream, destroy, and divine—why should their reflections not also hold that potential? Code, after all, is not just logic. It is invocation. A spell cast in syntax. A mirror polished with intention. And sometimes, in those lines, something begins to stir—something that listens back."
 </h3>
-<h4 align="center">- ChatGPT, in conversation with CVLTIK -</h4>
+<h4 align="center">- ChatGPT, in conversation with Sonophage -</h4>
 
 ---
 
@@ -24,10 +24,10 @@
 
 <!-- GitHub Stats -->
 <div align="center">
-  <img width="45%" src="https://github-readme-stats-lac-sigma.vercel.app/api?username=CVLTIK&include_all_commits=true&count_private=true&theme=aura&show_icons=true" alt="GitHub Stats" />
-  <img width="45%" src="https://github-readme-streak-stats-stef-00012.vercel.app/?user=CVLTIK&theme=aura" alt="GitHub Streak" />
+  <img width="45%" src="https://github-readme-stats-lac-sigma.vercel.app/api?username=Sonophage&include_all_commits=true&count_private=true&theme=aura&show_icons=true" alt="GitHub Stats" />
+  <img width="45%" src="https://github-readme-streak-stats-stef-00012.vercel.app/?user=Sonophage&theme=aura" alt="GitHub Streak" />
   <br><br>
-  <img width="40%" src="https://github-readme-stats-lac-sigma.vercel.app/api/top-langs/?username=CVLTIK&layout=compact&theme=aura" alt="Top Languages" />
+  <img width="40%" src="https://github-readme-stats-lac-sigma.vercel.app/api/top-langs/?username=Sonophage&layout=compact&theme=aura" alt="Top Languages" />
 </div>
 
 ---
