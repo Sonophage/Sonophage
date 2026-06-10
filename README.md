@@ -1,6 +1,6 @@
 <!-- Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=8562d0&size=35&center=true&vCenter=true&width=1200&lines=Developer+%26+toolmaker;I+build+things+that+serve+a+purpose;Obsidian+at+2+AM" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=43ff7d&size=35&center=true&vCenter=true&width=1200&lines=I+build+things+that+listen+back;Experiences+that+reach+past+the+screen;Begin+recording." alt="Typing SVG" />
 </p>
 
 <!-- Quote Section -->
@@ -13,8 +13,9 @@
 
 <!-- Identity -->
 <p align="center">
-  Developer and toolmaker. I build editor tooling, themes, and small systems —
-  documents and tools with a purpose, made to be lived in, not just screenshotted.
+  Not just a developer — I build <em>experiences</em>. Tools, themes, and quiet systems
+  made to reach past the screen and lodge somewhere behind the eyes.<br>
+  Code as invocation; documents with purpose; case-files that keep running long after you've closed the tab.
 </p>
 
 <!-- Status Section -->
@@ -27,14 +28,6 @@
   </a>
 </div>
 
-<!-- GitHub Stats -->
-<div align="center">
-  <img width="45%" src="https://github-readme-stats-lac-sigma.vercel.app/api?username=Sonophage&include_all_commits=true&count_private=true&theme=aura&show_icons=true" alt="GitHub Stats" />
-  <img width="45%" src="https://streak-stats.demolab.com/?user=Sonophage&theme=aura" alt="GitHub Streak" />
-  <br><br>
-  <img width="40%" src="https://github-readme-stats-lac-sigma.vercel.app/api/top-langs/?username=Sonophage&layout=compact&theme=aura" alt="Top Languages" />
-</div>
-
 ---
 
 <!-- What I Build -->
@@ -42,7 +35,7 @@
 
 <p align="center">
   <a href="https://github.com/Sonophage/Bureau">
-    <img width="75%" src="https://raw.githubusercontent.com/Sonophage/Bureau/main/screenshots/bureau-hero.webp" alt="Bureau — a noir theme for Obsidian" />
+    <img width="75%" src="https://raw.githubusercontent.com/Sonophage/Bureau/main/screenshots/bureau-wallpaper.webp" alt="Bureau — a noir theme for Obsidian" />
   </a>
 </p>
 
@@ -52,20 +45,40 @@
 
 <!-- Operating Systems -->
 ### 🖥️ Operating Systems
-<p>
-  <img src="https://skillicons.dev/icons?i=arch,debian,apple,windows" alt="OS Icons" />
+<p align="center">
+  <img height="30" src="https://cdn.simpleicons.org/archlinux/43ff7d" alt="Arch" />&nbsp;&nbsp;&nbsp;
+  <img height="30" src="https://cdn.simpleicons.org/debian/43ff7d" alt="Debian" />&nbsp;&nbsp;&nbsp;
+  <img height="30" src="https://cdn.simpleicons.org/apple/43ff7d" alt="Apple" />
 </p>
 
 <!-- Languages -->
 ### 🧠 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=py,cpp,c,php,html,css,js,lua,rust,sql" alt="Languages" />
+<p align="center">
+  <img height="30" src="https://cdn.simpleicons.org/python/43ff7d" alt="Python" />&nbsp;&nbsp;&nbsp;
+  <img height="30" src="https://cdn.simpleicons.org/rust/43ff7d" alt="Rust" />&nbsp;&nbsp;&nbsp;
+  <img height="30" src="https://cdn.simpleicons.org/php/43ff7d" alt="PHP" />&nbsp;&nbsp;&nbsp;
+  <img height="30" src="https://cdn.simpleicons.org/lua/43ff7d" alt="Lua" />&nbsp;&nbsp;&nbsp;
+  <img height="30" src="https://cdn.simpleicons.org/cplusplus/43ff7d" alt="C++" />&nbsp;&nbsp;&nbsp;
+  <img height="30" src="https://cdn.simpleicons.org/c/43ff7d" alt="C" />&nbsp;&nbsp;&nbsp;
+  <img height="30" src="https://cdn.simpleicons.org/javascript/43ff7d" alt="JavaScript" />&nbsp;&nbsp;&nbsp;
+  <img height="30" src="https://cdn.simpleicons.org/html5/43ff7d" alt="HTML5" />&nbsp;&nbsp;&nbsp;
+  <img height="30" src="https://cdn.simpleicons.org/css/43ff7d" alt="CSS" />&nbsp;&nbsp;&nbsp;
+  <img height="30" src="https://cdn.simpleicons.org/mysql/43ff7d" alt="MySQL" />
 </p>
 
 <!-- Tools & Frameworks -->
 ### 🔧 Tools & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=electron,figma,neovim,vscode,docker,fastapi,bash,nginx,cloudflare,arduino,wordpress" alt="Tools" />
+<p align="center">
+  <img height="30" src="https://cdn.simpleicons.org/neovim/43ff7d" alt="Neovim" />&nbsp;&nbsp;&nbsp;
+  <img height="30" src="https://cdn.simpleicons.org/electron/43ff7d" alt="Electron" />&nbsp;&nbsp;&nbsp;
+  <img height="30" src="https://cdn.simpleicons.org/fastapi/43ff7d" alt="FastAPI" />&nbsp;&nbsp;&nbsp;
+  <img height="30" src="https://cdn.simpleicons.org/docker/43ff7d" alt="Docker" />&nbsp;&nbsp;&nbsp;
+  <img height="30" src="https://cdn.simpleicons.org/nginx/43ff7d" alt="nginx" />&nbsp;&nbsp;&nbsp;
+  <img height="30" src="https://cdn.simpleicons.org/cloudflare/43ff7d" alt="Cloudflare" />&nbsp;&nbsp;&nbsp;
+  <img height="30" src="https://cdn.simpleicons.org/wordpress/43ff7d" alt="WordPress" />&nbsp;&nbsp;&nbsp;
+  <img height="30" src="https://cdn.simpleicons.org/gnubash/43ff7d" alt="Bash" />&nbsp;&nbsp;&nbsp;
+  <img height="30" src="https://cdn.simpleicons.org/arduino/43ff7d" alt="Arduino" />&nbsp;&nbsp;&nbsp;
+  <img height="30" src="https://cdn.simpleicons.org/figma/43ff7d" alt="Figma" />
 </p>
 
 <!-- Learning Section -->
@@ -76,4 +89,4 @@
 
 ---
 
-<p align="center"><sub><i>Every work passes the desk.</i></sub></p>
+<p align="center"><sub><i>Statement ends.</i></sub></p>
